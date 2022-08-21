@@ -9,7 +9,8 @@
  
 ![Screenshot 2022-08-21 at 17-08-55 Document](https://user-images.githubusercontent.com/110158807/185789141-e44f67ea-ff4d-42ae-af1d-3ec683655130.png)
 
- 
+ ![gitcreative](https://user-images.githubusercontent.com/110158807/185789401-fb41af80-2815-47ce-aeba-276a330a73eb.png)
+
  
  
  ### Learned Concepts
